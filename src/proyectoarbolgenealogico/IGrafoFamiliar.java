@@ -1,5 +1,5 @@
 package proyectoarbolgenealogico;
-// Capa Vista (View)
+// Capa Modelo (Model)
 import java.util.Set;
 
 public interface IGrafoFamiliar {
