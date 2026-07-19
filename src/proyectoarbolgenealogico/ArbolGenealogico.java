@@ -1,5 +1,5 @@
 package proyectoarbolgenealogico;
-
+// Capa Modelo (Model)
 import java.util.*;
 
 public class ArbolGenealogico implements IGrafoFamiliar {

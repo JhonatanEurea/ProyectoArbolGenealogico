@@ -1,5 +1,5 @@
 package proyectoarbolgenealogico;
-
+// Capa Vista (View)
 import javax.swing.*;
 import java.awt.*;
 import java.util.Set;

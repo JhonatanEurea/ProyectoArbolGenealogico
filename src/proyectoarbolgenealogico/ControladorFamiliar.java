@@ -1,5 +1,5 @@
 package proyectoarbolgenealogico;
-
+// Capa Controlador (Controller)
 import java.util.Set;
 
 public class ControladorFamiliar {

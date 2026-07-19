@@ -1,5 +1,5 @@
 package proyectoarbolgenealogico;
-
+// Capa Vista (View)
 import java.util.Set;
 
 public interface IVistaFamiliar {
