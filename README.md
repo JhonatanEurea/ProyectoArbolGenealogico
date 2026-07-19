@@ -1,4 +1,4 @@
-#Sistema de Árbol Genealógico
+Sistema de Árbol Genealógico
 
 Este proyecto es una aplicación de escritorio desarrollada en Java que permite gestionar redes familiares complejas utilizando la Teoría de Grafos. El sistema facilita el registro de individuos, la creación de relaciones parentales y el análisis de consanguineidad, garantizando la integridad de los datos mediante una arquitectura basada en el patrón MVC (Modelo-Vista-Controlador).
 
